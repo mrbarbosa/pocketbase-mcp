@@ -1,1 +1,1 @@
-console.log('Test file');
+{"encoding": "utf8", "content": "console.log('Test file');"}
